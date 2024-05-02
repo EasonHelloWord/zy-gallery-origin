@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://example-gallery.easonjan.top/'
 languageCode = 'zh-CN'
 title = 'My New Hugo Site'
 [module]
