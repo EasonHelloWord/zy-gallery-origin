@@ -1,0 +1,54 @@
+copyright = "© 张三"
+defaultContentLanguage = "zh"
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+languageCode = "zh"
+timeZone = "Asia/Shanghai"
+timeout = "120s"
+title = "我的画廊"
+
+[params]
+  defaultTheme = "dark"
+  description = "我的画廊！"
+  title = "我的画廊"
+  [params.author]
+    email = "user@example.com"
+    name = "Your Name"
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/"
+    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    youtube = "https://www.youtube.com/"
+    email = "mailto:user@example.com"
+    #website = "https://example.com"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[menu]
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
