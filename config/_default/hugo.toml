@@ -8,7 +8,7 @@ timeout = "120s"
 title = "我的画廊"
 
 [params]
-  defaultTheme = "dark"
+  defaultTheme = "bright"
   description = "我的画廊！"
   title = "我的画廊"
   [params.author]

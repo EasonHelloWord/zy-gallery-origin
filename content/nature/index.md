@@ -9,6 +9,4 @@ title: 自然风光
 # featured: true
 
 weight: 3
-params:
-  theme: dark
 ---
