@@ -1,25 +1,25 @@
-copyright = "© 张三"
+copyright = "© qiuqiuOuO"
 defaultContentLanguage = "zh"
 disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "zh"
 timeZone = "Asia/Shanghai"
 timeout = "120s"
-title = "我的画廊"
+title = "丘丘的作品"
 
 [params]
   defaultTheme = "bright"
-  description = "我的画廊！"
-  title = "我的画廊"
+  description = "丘丘的作品"
+  title = "丘丘的作品"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "qiuqiuOuO@unendinglove.com"
+    name = "qiuqiuOuO"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    #instagram = "https://www.instagram.com/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:qiuqiuOuO@unendinglove.com"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -45,7 +45,7 @@ title = "我的画廊"
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
+    name = "awa"
     url = "https://github.com/nicokaiser/hugo-theme-gallery/"
     weight = 3
 

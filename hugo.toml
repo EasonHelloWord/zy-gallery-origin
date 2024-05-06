@@ -1,6 +1,6 @@
-baseURL = 'https://example-gallery.easonjan.top/'
+baseURL = 'https://qiuqiuOuO.unendinglove.com/'
 languageCode = 'zh-CN'
-title = 'My New Hugo Site'
+title = '丘丘的作品'
 [module]
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
