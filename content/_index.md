@@ -1,7 +1,7 @@
 ---
-description: 一个主页
+description: qiuqiuOuO
 #lastmod: 2023-07-05
-title: 欢迎光临！
+title: 欢迎光临
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:

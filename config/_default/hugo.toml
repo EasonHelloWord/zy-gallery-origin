@@ -20,6 +20,7 @@ title = "丘丘的作品"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
     email = "mailto:qiuqiuOuO@unendinglove.com"
+    qq = "https://tool.gljlw.com/qq/?qq=3317702128"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
@@ -45,9 +46,14 @@ title = "丘丘的作品"
 
 [menu]
   [[menu.footer]]
-    name = "awa"
+    name = "powered by hugo"
     url = "https://github.com/nicokaiser/hugo-theme-gallery/"
     weight = 3
+    
+  [[menu.footer]]
+    name = "联系我"
+    url = "https://tool.gljlw.com/qq/?qq=3317702128"
+    weight = 2
 
 [services]
   [services.rss]
