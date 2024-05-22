@@ -19,7 +19,7 @@ title = "丘丘的作品"
     #instagram = "https://www.instagram.com/"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
-    email = "mailto:qiuqiuOuO@unendinglove.com"
+    email = "mailto:3317702128@qq.com"
     qq = "https://tool.gljlw.com/qq/?qq=3317702128"
     #website = "https://example.com"
     #mastodon = "https://example.com"
@@ -52,7 +52,7 @@ title = "丘丘的作品"
     
   [[menu.footer]]
     name = "联系我"
-    url = "https://tool.gljlw.com/qq/?qq=3317702128"
+    url = "about"
     weight = 2
 
 [services]
